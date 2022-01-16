@@ -1,0 +1,8 @@
+﻿@model RatingApp.WebUI.Models.ProductDetailViewModel
+
+<div class="list-group">
+    <div>Average: @Model.ProductAverageValue</div>
+    @foreach(var comment in Model.CommentList){
+        <p class="list-group-item">@comment.Description</p>
+    }
+</div>

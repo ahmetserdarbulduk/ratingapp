@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98086336-beef-4c9e-8dcc-3c7c956fc798": {
+      "ProjectGuid": "98086336-beef-4c9e-8dcc-3c7c956fc798",
+      "DisplayName": "RatingApp.Entities",
+      "ColorIndex": 0
+    },
+    "9e2ebdef-e5b1-4e05-874a-20231423657d": {
+      "ProjectGuid": "9e2ebdef-e5b1-4e05-874a-20231423657d",
+      "DisplayName": "General.Core",
+      "ColorIndex": 1
+    },
+    "4d8904fd-5164-401b-a13a-941cbe65ef1b": {
+      "ProjectGuid": "4d8904fd-5164-401b-a13a-941cbe65ef1b",
+      "DisplayName": "RatingApp.WebUI",
+      "ColorIndex": 2
+    },
+    "e2fa331c-ebb7-4813-8f4b-c187f4a4e8ea": {
+      "ProjectGuid": "e2fa331c-ebb7-4813-8f4b-c187f4a4e8ea",
+      "DisplayName": "RatingApp.DataAccess",
+      "ColorIndex": 3
+    },
+    "b9b6b3af-aad1-4f07-bd69-b96249e330d5": {
+      "ProjectGuid": "b9b6b3af-aad1-4f07-bd69-b96249e330d5",
+      "DisplayName": "RatingApp.Business",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,9 @@
+﻿@model RatingApp.WebUI.Models.ProductListViewModel
+@{Layout="~/Views/Shared/_Layout.cshtml";}
+
+<div class="list-group">
+        @foreach(var product in Model.Products){
+            <a class="list-group-item" href="~/Product/Index?productId=@product.Id">@product.Name</a>
+            <a class="btn btn-primary" href="~/Comment/Add?productId=@product.Id">Rate</a>
+        }
+</div>

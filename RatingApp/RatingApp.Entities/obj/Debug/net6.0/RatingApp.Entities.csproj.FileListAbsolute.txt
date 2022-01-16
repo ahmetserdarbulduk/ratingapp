@@ -1,0 +1,15 @@
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\bin\Debug\net6.0\RatingApp.Entities.deps.json
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\bin\Debug\net6.0\RatingApp.Entities.dll
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\bin\Debug\net6.0\ref\RatingApp.Entities.dll
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\bin\Debug\net6.0\RatingApp.Entities.pdb
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\bin\Debug\net6.0\General.Core.dll
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\bin\Debug\net6.0\General.Core.pdb
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\obj\Debug\net6.0\RatingApp.Entities.csproj.AssemblyReference.cache
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\obj\Debug\net6.0\RatingApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\obj\Debug\net6.0\RatingApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\obj\Debug\net6.0\RatingApp.Entities.AssemblyInfo.cs
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\obj\Debug\net6.0\RatingApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\obj\Debug\net6.0\RatingApp.Entities.csproj.CopyComplete
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\obj\Debug\net6.0\RatingApp.Entities.dll
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\obj\Debug\net6.0\ref\RatingApp.Entities.dll
+C:\Users\Mete\Desktop\RatingApp\RatingApp.Entities\obj\Debug\net6.0\RatingApp.Entities.pdb

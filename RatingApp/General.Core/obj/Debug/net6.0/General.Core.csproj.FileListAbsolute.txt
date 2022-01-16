@@ -1,0 +1,12 @@
+C:\Users\Mete\Desktop\RatingApp\General.Core\bin\Debug\net6.0\General.Core.deps.json
+C:\Users\Mete\Desktop\RatingApp\General.Core\bin\Debug\net6.0\General.Core.dll
+C:\Users\Mete\Desktop\RatingApp\General.Core\bin\Debug\net6.0\ref\General.Core.dll
+C:\Users\Mete\Desktop\RatingApp\General.Core\bin\Debug\net6.0\General.Core.pdb
+C:\Users\Mete\Desktop\RatingApp\General.Core\obj\Debug\net6.0\General.Core.csproj.AssemblyReference.cache
+C:\Users\Mete\Desktop\RatingApp\General.Core\obj\Debug\net6.0\General.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mete\Desktop\RatingApp\General.Core\obj\Debug\net6.0\General.Core.AssemblyInfoInputs.cache
+C:\Users\Mete\Desktop\RatingApp\General.Core\obj\Debug\net6.0\General.Core.AssemblyInfo.cs
+C:\Users\Mete\Desktop\RatingApp\General.Core\obj\Debug\net6.0\General.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mete\Desktop\RatingApp\General.Core\obj\Debug\net6.0\General.Core.dll
+C:\Users\Mete\Desktop\RatingApp\General.Core\obj\Debug\net6.0\ref\General.Core.dll
+C:\Users\Mete\Desktop\RatingApp\General.Core\obj\Debug\net6.0\General.Core.pdb

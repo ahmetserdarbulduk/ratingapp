@@ -1,0 +1,14 @@
+﻿@using Microsoft.AspNetCore.Http
+@{Layout="~/Views/Shared/_Layout.cshtml";}
+@{
+    var productId = this.Context.Request.Query["productId"];
+}
+<form method="post" action="~/Comment/Add">
+    <div class="form-group">
+        <label class="caption-top">Add New Comment</label>
+        <textarea name="Description" class="form-control"></textarea>
+        <input name="Rating" class="form-control" type="range" min="0" max="5" />
+        <input name="ProductId" value="@productId" type="text" />
+        <input type="submit" value="Submit" class="btn btn-primary" />
+    </div>
+</form>
