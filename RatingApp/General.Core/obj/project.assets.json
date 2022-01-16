@@ -530,11 +530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mete\\Desktop\\RatingApp\\General.Core\\General.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\General.Core\\General.Core.csproj",
       "projectName": "General.Core",
-      "projectPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\General.Core\\General.Core.csproj",
+      "projectPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\General.Core\\General.Core.csproj",
       "packagesPath": "C:\\Users\\Mete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\General.Core\\obj\\",
+      "outputPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\General.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

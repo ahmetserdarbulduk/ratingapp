@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J5+5L9YPoNojEpdEfqqo7wplg4qugh9R0wylVdzRY+ij3DvNtLvtuoT5kDModhEAmaG0SVBG4sdQYe+jceORtQ==",
+  "dgSpecHash": "UmwizAJe91KpOPYiXdBdIsIE2Ola+Nc/+jkKaH8aL6zgJ/Xd6+mORo1y1Jo1CpAu4obz8QYgAjyFWI0pI1X8DA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Business\\RatingApp.Business.csproj",
+  "projectFilePath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Business\\RatingApp.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mete\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\Mete\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",

@@ -6818,11 +6818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Business\\RatingApp.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Business\\RatingApp.Business.csproj",
       "projectName": "RatingApp.Business",
-      "projectPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Business\\RatingApp.Business.csproj",
+      "projectPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Business\\RatingApp.Business.csproj",
       "packagesPath": "C:\\Users\\Mete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Business\\obj\\",
+      "outputPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6842,11 +6842,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj"
+            "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj"
             },
-            "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj": {
-              "projectPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj"
+            "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj": {
+              "projectPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj"
             }
           }
         }

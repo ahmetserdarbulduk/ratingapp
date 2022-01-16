@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HNfDLcVHjk5upil49eFvcTgfxtoM3lPwQWCdaUoDkcJz7/DhlhKXMzn0Q7tNG/FTienbW0K/WGxEfxcEZOEcGg==",
+  "dgSpecHash": "1EioyPHv9/lVLLP8Cv0RoHzuosAlduxJ0SZRzfwN56UBKnaRTbXGn7AmaZylERxK0UoAvB5I1VVJdMzKAbz21g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mete\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mete\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

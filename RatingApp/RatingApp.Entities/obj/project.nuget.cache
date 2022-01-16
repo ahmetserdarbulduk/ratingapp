@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8SZOIy5f0b5t7C9/LG1jf69yeQo4F4kO4y4jx7qATFfi+cW5fIXPozuS8scIyFkFuM7moMqsALiXD7UUHZ0zKw==",
+  "dgSpecHash": "NlDj+HUYAKfXwl6B/R09++OKCbHePr2W5a44IlrOL8zUaV5ghElsP0SStXot7ur57aDIWBHGR/cN0xCjraEO2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj",
+  "projectFilePath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mete\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\Mete\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",

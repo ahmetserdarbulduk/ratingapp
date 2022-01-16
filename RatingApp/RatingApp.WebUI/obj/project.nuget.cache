@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IIbwsPdaTFIdgc4yo7kK/5ZKD1zaiUj45xmFN/IfmADqfnbXxI8ZXkLfVvpTGRQkHjxvdRGm8EKaG9Nq3QABHw==",
+  "dgSpecHash": "nQWdV5iMUVCfOHSdncSCy9aFb5akhFPN5v6REewwcQPrjhvmtv5ApXwWsO40CzTfHfkMgaVmCltwNEu9cKi9gQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.WebUI\\RatingApp.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.WebUI\\RatingApp.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mete\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\Mete\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj": {}
+    "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mete\\Desktop\\RatingApp\\General.Core\\General.Core.csproj": {
+    "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\General.Core\\General.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mete\\Desktop\\RatingApp\\General.Core\\General.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\General.Core\\General.Core.csproj",
         "projectName": "General.Core",
-        "projectPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\General.Core\\General.Core.csproj",
+        "projectPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\General.Core\\General.Core.csproj",
         "packagesPath": "C:\\Users\\Mete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\General.Core\\obj\\",
+        "outputPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\General.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj": {
+    "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj",
         "projectName": "RatingApp.DataAccess",
-        "projectPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.DataAccess\\RatingApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Mete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -94,11 +94,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mete\\Desktop\\RatingApp\\General.Core\\General.Core.csproj": {
-                "projectPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\General.Core\\General.Core.csproj"
+              "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\General.Core\\General.Core.csproj": {
+                "projectPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\General.Core\\General.Core.csproj"
               },
-              "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj": {
-                "projectPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj"
+              "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj"
               }
             }
           }
@@ -153,14 +153,14 @@
         }
       }
     },
-    "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj": {
+    "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj",
         "projectName": "RatingApp.Entities",
-        "projectPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj",
+        "projectPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Entities\\RatingApp.Entities.csproj",
         "packagesPath": "C:\\Users\\Mete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\RatingApp.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\RatingApp.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -180,8 +180,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mete\\Desktop\\RatingApp\\General.Core\\General.Core.csproj": {
-                "projectPath": "C:\\Users\\Mete\\Desktop\\RatingApp\\General.Core\\General.Core.csproj"
+              "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\General.Core\\General.Core.csproj": {
+                "projectPath": "C:\\Users\\Mete\\Documents\\GitHub\\ratingapp\\RatingApp\\General.Core\\General.Core.csproj"
               }
             }
           }
